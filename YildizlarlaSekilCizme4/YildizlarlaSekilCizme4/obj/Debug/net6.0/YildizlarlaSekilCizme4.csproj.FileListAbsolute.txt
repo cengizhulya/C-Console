@@ -1,0 +1,15 @@
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\YildizlarlaSekilCizme4\YildizlarlaSekilCizme4\obj\Debug\net6.0\YildizlarlaSekilCizme4.csproj.AssemblyReference.cache
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\YildizlarlaSekilCizme4\YildizlarlaSekilCizme4\obj\Debug\net6.0\YildizlarlaSekilCizme4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\YildizlarlaSekilCizme4\YildizlarlaSekilCizme4\obj\Debug\net6.0\YildizlarlaSekilCizme4.AssemblyInfoInputs.cache
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\YildizlarlaSekilCizme4\YildizlarlaSekilCizme4\obj\Debug\net6.0\YildizlarlaSekilCizme4.AssemblyInfo.cs
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\YildizlarlaSekilCizme4\YildizlarlaSekilCizme4\obj\Debug\net6.0\YildizlarlaSekilCizme4.csproj.CoreCompileInputs.cache
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\YildizlarlaSekilCizme4\YildizlarlaSekilCizme4\bin\Debug\net6.0\YildizlarlaSekilCizme4.exe
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\YildizlarlaSekilCizme4\YildizlarlaSekilCizme4\bin\Debug\net6.0\YildizlarlaSekilCizme4.deps.json
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\YildizlarlaSekilCizme4\YildizlarlaSekilCizme4\bin\Debug\net6.0\YildizlarlaSekilCizme4.runtimeconfig.json
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\YildizlarlaSekilCizme4\YildizlarlaSekilCizme4\bin\Debug\net6.0\YildizlarlaSekilCizme4.dll
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\YildizlarlaSekilCizme4\YildizlarlaSekilCizme4\bin\Debug\net6.0\YildizlarlaSekilCizme4.pdb
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\YildizlarlaSekilCizme4\YildizlarlaSekilCizme4\obj\Debug\net6.0\YildizlarlaSekilCizme4.dll
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\YildizlarlaSekilCizme4\YildizlarlaSekilCizme4\obj\Debug\net6.0\refint\YildizlarlaSekilCizme4.dll
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\YildizlarlaSekilCizme4\YildizlarlaSekilCizme4\obj\Debug\net6.0\YildizlarlaSekilCizme4.pdb
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\YildizlarlaSekilCizme4\YildizlarlaSekilCizme4\obj\Debug\net6.0\YildizlarlaSekilCizme4.genruntimeconfig.cache
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\YildizlarlaSekilCizme4\YildizlarlaSekilCizme4\obj\Debug\net6.0\ref\YildizlarlaSekilCizme4.dll
