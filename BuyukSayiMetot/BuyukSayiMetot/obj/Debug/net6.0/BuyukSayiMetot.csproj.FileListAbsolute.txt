@@ -1,0 +1,15 @@
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\BuyukSayiMetot\BuyukSayiMetot\bin\Debug\net6.0\BuyukSayiMetot.exe
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\BuyukSayiMetot\BuyukSayiMetot\bin\Debug\net6.0\BuyukSayiMetot.deps.json
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\BuyukSayiMetot\BuyukSayiMetot\bin\Debug\net6.0\BuyukSayiMetot.runtimeconfig.json
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\BuyukSayiMetot\BuyukSayiMetot\bin\Debug\net6.0\BuyukSayiMetot.dll
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\BuyukSayiMetot\BuyukSayiMetot\bin\Debug\net6.0\BuyukSayiMetot.pdb
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\BuyukSayiMetot\BuyukSayiMetot\obj\Debug\net6.0\BuyukSayiMetot.csproj.AssemblyReference.cache
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\BuyukSayiMetot\BuyukSayiMetot\obj\Debug\net6.0\BuyukSayiMetot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\BuyukSayiMetot\BuyukSayiMetot\obj\Debug\net6.0\BuyukSayiMetot.AssemblyInfoInputs.cache
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\BuyukSayiMetot\BuyukSayiMetot\obj\Debug\net6.0\BuyukSayiMetot.AssemblyInfo.cs
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\BuyukSayiMetot\BuyukSayiMetot\obj\Debug\net6.0\BuyukSayiMetot.csproj.CoreCompileInputs.cache
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\BuyukSayiMetot\BuyukSayiMetot\obj\Debug\net6.0\BuyukSayiMetot.dll
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\BuyukSayiMetot\BuyukSayiMetot\obj\Debug\net6.0\refint\BuyukSayiMetot.dll
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\BuyukSayiMetot\BuyukSayiMetot\obj\Debug\net6.0\BuyukSayiMetot.pdb
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\BuyukSayiMetot\BuyukSayiMetot\obj\Debug\net6.0\BuyukSayiMetot.genruntimeconfig.cache
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\BuyukSayiMetot\BuyukSayiMetot\obj\Debug\net6.0\ref\BuyukSayiMetot.dll
